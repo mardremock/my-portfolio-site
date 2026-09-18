@@ -6,28 +6,26 @@ nav_order: 3
 
 # Things I've Made
 
-This page collects work that does not fit neatly into a GitHub project. Add links to blogs, videos, articles, websites, apps, presentations, designs, tutorials, events, or anything else you have created.
+This page collects work that does not fit neatly into a GitHub project. Below, you'll find links to my author profile with The IX Sports, my Substack page, and other publications.
 
-## Blog Post or Article
+## Golf Insider: The IX Sports
 
-Write a sentence or two explaining what this piece is about and why you made it.
+I'm a freelance journalist for The IX Sports, a women's sports news company. I'm the Golf Insider, so I write a weekly column recapping the latest in women's golf from the LPGA, LET, Epson Tour, and college golf spaces. I write a variety of pieces, from tournament recaps with player quotes to interviews with folks in the golf space. I use my collegiate competative golf experience provide my insight and analysis when necessary.
 
-[Read it here](https://example.com)
+[This is my author profile.](https://www.theixsports.com/author/marin-dremock/)
 
-## Video
+## Substack: The Crow's Nest
 
-Describe what the video is about and what viewers will learn or see.
+My Substack page is called The Crow's Nest. It's sort of a catch-all for my fun writing. I write about sports, birds, living life as a young adult, and anything else that pops up in my curious mind. I'm trying to get better at writing for fun and more frequently, so this is a place to collect and share those things. I have a lot of fun with it, and I hope people enjoy reading my more colloquial work!
 
-[Watch it here](https://youtube.com/)
+[Check out The Crow's Nest on Substack.](https://marinannelle.substack.com/?utm_campaign=profile_chips)
 
-## Website or App
+## Other Publications
 
-Describe what the website or app does and who it is for.
+In the summer of 2023, I did an internship with the Golf Association of Philadelphia. During this internship, I wrote a recap article of the 2nd edition of the Net Championship. That article is published on GAP's website. I'm grateful that I had a great team of comms colleagues around me to help introduce me to their style conventions, interview techniques, and organization methods.
 
-[Visit it here](https://example.com)
+[Here's my recap of the 2nd Net Championship.](https://gapgolf.org/2nd-net-championship/)
 
-## Something Else
+I also had the opportunity to interview Kim Gradisek, a pioneer of women's golf at Stonewall Golf Club in Elverson, PA. She was involved in the organization, planning, and supervision for the 2023 U.S. Women's Mid-Amateur Championship at Stonewall's North Course. Stonewall is a GAP Member Club, so when USGA major championships come to the region, there's always a story to be told. 
 
-Add another type of work, such as a presentation, design, tutorial, podcast, community project, or event.
-
-[View it here](https://example.com)
+[Here's my interview and piece with Kim.](https://gapgolf.org/36th-u-s-womens-mid-amateur-spotlight/)
